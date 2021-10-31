@@ -1,0 +1,52 @@
+
+EYE T PREP?
+
+Step 1.
+
+Open powershell and type this command: 
+Set-ExecutionPolicy Unrestricted -Force
+Run dis shit
+git clone https://github.com/Sycnex/Windows10Debloater
+run .\Windows10DebloaterGUI.ps1
+debloat my balls.
+
+Step 2. Run this
+
+Get-AppxPackage -allusers *3dbuilder* | Remove-AppxPackage
+Get-AppxPackage -allusers *alarms* | Remove-AppxPackage
+Get-AppxPackage -allusers *appconnector* | Remove-AppxPackage
+Get-AppxPackage -allusers *appinstaller* | Remove-AppxPackage
+Get-AppxPackage -allusers *communicationsapps* | Remove-AppxPackage
+Get-AppxPackage -allusers *camera* | Remove-AppxPackage
+Get-AppxPackage -allusers *feedback* | Remove-AppxPackage
+Get-AppxPackage -allusers *officehub* | Remove-AppxPackage
+Get-AppxPackage -allusers *getstarted* | Remove-AppxPackage
+Get-AppxPackage -allusers *skypeapp* | Remove-AppxPackage
+Get-AppxPackage -allusers *zunemusic* | Remove-AppxPackage
+Get-AppxPackage -allusers *zune* | Remove-AppxPackage
+Get-AppxPackage -allusers *maps* | Remove-AppxPackage
+Get-AppxPackage -allusers *messaging* | Remove-AppxPackage
+Get-AppxPackage -allusers *solitaire* | Remove-AppxPackage
+Get-AppxPackage -allusers *wallet* | Remove-AppxPackage
+Get-AppxPackage -allusers *connectivitystore* | Remove-AppxPackage
+Get-AppxPackage -allusers *bingfinance* | Remove-AppxPackage
+Get-AppxPackage -allusers *bing* | Remove-AppxPackage
+Get-AppxPackage -allusers *zunevideo* | Remove-AppxPackage
+Get-AppxPackage -allusers *bingnews* | Remove-AppxPackage
+Get-AppxPackage -allusers *onenote* | Remove-AppxPackage
+Get-AppxPackage -allusers *oneconnect* | Remove-AppxPackage
+Get-AppxPackage -allusers *mspaint* | Remove-AppxPackage
+Get-AppxPackage -allusers *commsphone* | Remove-AppxPackage
+Get-AppxPackage -allusers *windowsphone* | Remove-AppxPackage
+Get-AppxPackage -allusers *phone* | Remove-AppxPackage
+Get-AppxPackage -allusers *bingsports* | Remove-AppxPackage
+Get-AppxPackage -allusers *sticky* | Remove-AppxPackage
+Get-AppxPackage -allusers *sway* | Remove-AppxPackage
+Get-AppxPackage -allusers *3d* | Remove-AppxPackage
+Get-AppxPackage -allusers *soundrecorder* | Remove-AppxPackage
+Get-AppxPackage -allusers *bingweather* | Remove-AppxPackage
+Get-AppxPackage -allusers *windowsstore* | Remove-AppxPackage
+Get-AppxPackage -allusers *xbox* | Remove-AppxPackage
+
+Step 3.
+profit n reinstall all yo powercord jank via your yi- I mean educational drive.
